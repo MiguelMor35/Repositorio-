@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Christian Sucuzhanay Arévalo</h1>
+<h1 align="center">Hi 👋, I'm Miguel Moreno Toledano</h1>
 <h3 align="center">BI & Big Data Engineer | Data Science</h3>
 
-- 🔭 I’m currently working at **Universidad Europea** as Assistant Professor
+- 🔭 I’m currently working at **Universidad Europea** as Student
 - 🔭 I’m currently teaching **Big Data Projects, Concurrent and Distributed Programming, Statistical Programming Languages**
 - 🌱 I’m currently learning **MLOps, AWS Certified Solutions Architect**
 
